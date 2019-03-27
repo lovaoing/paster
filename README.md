@@ -1,2 +1,1 @@
-# poster
-sketch 插件
+快速将剪切板上的文本粘贴到sketch文本图层
